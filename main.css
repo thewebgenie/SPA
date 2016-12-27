@@ -1,0 +1,13 @@
+div {
+	width: 100%;
+	height: 1000px;
+}
+#one {
+	background-color: red;
+}
+#two {
+	background-color: blue;
+}
+#three {
+	background-color: orange;
+}
